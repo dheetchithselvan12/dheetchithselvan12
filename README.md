@@ -1,38 +1,83 @@
-## Hi there! 👋
+# 👋 Hi, I'm Dheetchith Selvan
 
-I'm DHEETCHITHSELVAN A, a passionate developer with a knack for creating engaging web applications. Welcome to my GitHub profile!
+💻 MERN Stack Developer | 🚀 Passionate about building full-stack web applications  
+🎯 Currently looking for internship / entry-level opportunities  
 
-## About Me
+---
 
-I am a budding developer excited about technology and coding. Currently, I have several projects under my belt, focusing on web development using various modern technologies.
+## 🧠 About Me
 
-## Skills & Technologies
+- 🌱 I’m currently learning **MERN Stack Development**
+- 💡 I love building real-world projects to improve my skills
+- 🔧 Working on **Income Expense Tracker (Full Stack Project)**
+- 🎯 Goal: Become a professional full-stack developer
 
-html,css,js,bootstrap,react,git,github
+---
 
-## Top Projects
+## 🛠️ Skills
 
-- [WhatsApp-Clone](https://github.com/dheetchithselvan12/WhatsApp-Clone): A clone of WhatsApp featuring real-time messaging. ⭐ 0 Stars | 🌐 HTML
-- [myProj1-luxury-apartment](https://github.com/dheetchithselvan12/myProj1-luxury-apartment): A project showcasing a luxury apartment layout. ⭐ 0 Stars | 🌐 CSS
-- [mini-age-calculator-app](https://github.com/dheetchithselvan12/mini-age-calculator-app): An application to calculate and display your age based on the input date. ⭐ 0 Stars | 🌐 CSS
-- [mini-random-password-ex](https://github.com/dheetchithselvan12/mini-random-password-ex): A random password generator application. ⭐ 0 Stars | 🌐 CSS
-- [myFirstTodo](https://github.com/dheetchithselvan12/myFirstTodo): A simple todo application to manage tasks. ⭐ 0 Stars | 🌐 JavaScript
+### 💻 Frontend
+- HTML5, CSS3, JavaScript
+- React.js
 
-## GitHub Stats
+### ⚙️ Backend
+- Node.js, Express.js
 
-![](https://img.shields.io/badge/Public%20Repos-9-brightgreen) ![](https://img.shields.io/badge/Followers-0-red) ![](https://img.shields.io/badge/Following-0-blue)
+### 🗄️ Database
+- MongoDB
 
-## Recent Activity
+### 🧰 Tools
+- Git & GitHub
+- VS Code
+- Postman
 
-- Pushed to [WhatsApp-Clone](https://github.com/dheetchithselvan12/WhatsApp-Clone) - created: add new group and contact option when clicking the pen icon.
-- Pushed to [WhatsApp-Clone](https://github.com/dheetchithselvan12/WhatsApp-Clone) - designed: expand menu and contact box.
-- Pushed to [WhatsApp-Clone](https://github.com/dheetchithselvan12/WhatsApp-Clone) - Created: Contact-profiles.
-- Pushed to [WhatsApp-Clone](https://github.com/dheetchithselvan12/WhatsApp-Clone) - Created: Search Contact.
+---
 
-## Latest Blog Posts
+## 📊 GitHub Stats
 
-Currently, I do not have any blog posts. Stay tuned for updates!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheetchithselvan12&show_icons=true&theme=tokyonight)
 
-## Connect with Me
+---
 
-{}
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=dheetchithselvan12&theme=tokyonight)
+
+---
+
+## 📌 Featured Projects
+
+### 💰 Income Expense Tracker
+- Full-stack MERN application to track income and expenses  
+- Features: Add, delete transactions, dashboard view  
+
+🔗 GitHub: https://github.com/dheetchithselvan12/project-link  
+🌐 Live Demo: https://your-demo-link  
+
+---
+
+### 🌐 Personal Portfolio
+- Responsive portfolio website showcasing projects and skills  
+
+🔗 GitHub: https://github.com/YOUR_USERNAME/portfolio  
+🌐 Live Demo: https://your-portfolio-link  
+
+---
+
+### 🏧 ATM System (Python)
+- Console-based ATM simulation using Python  
+- Features: Withdraw, deposit, balance check  
+
+🔗 GitHub: https://github.com/YOUR_USERNAME/atm-project  
+
+---
+
+## 📫 Contact Me
+
+📧 Email: your-email@example.com  
+🔗 LinkedIn: https://linkedin.com/in/your-profile  
+🌐 Portfolio: https://your-portfolio-link  
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
