@@ -72,12 +72,6 @@ Responsive portfolio with modern UI/UX.
 </td>
 </tr>
 </table>
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dheetchithselvan12/dheetchithselvan12/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 ---
 
 ## 🧠 About Me
@@ -167,5 +161,11 @@ Responsive portfolio with modern UI/UX.
 🌐 Portfolio: https://dheetchithselvan12.github.io/dheetchith-portfolio/  
 
 ---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dheetchithselvan12/dheetchithselvan12/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ⭐ If you like my work, consider giving a star to my repositories!
