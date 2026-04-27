@@ -1,174 +1,154 @@
-<h1 align="center">👋 Hi, I'm Dheetchith Selvan</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=100&section=header&fontSize=30&fontAlignY=35&animation=twinkling" width="100%" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dheetchith">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+# 👋 Hi, I'm Dheetchith Selvan 
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=58A6FF&width=450&lines=MERN+Stack+Developer;Building+Full-Stack+Apps;Open+to+Opportunities" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheetchithselvan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://dheetchithselvan12.github.io/dheetchith-portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheetchithselvan12@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:007CF0&height=3" width="100%" />
+
+## 🧠 About Me
+<br/>
+
+💻 MERN Stack Developer specializing in full-stack application development.  
+⚡ Focused on clean UI, backend architecture, and API design.  
+🎯 Open to internship and entry-level opportunities.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:007CF0&height=3" width="100%" />
+
+## 🛠️ Skills & Tools
+
+### 💻 Skills
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,redux,bootstrap,tailwind" />
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion,figma" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:007CF0&height=3" width="100%" />
+
+## 🚀 Projects
+<br/>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<div>
+
+<img src="./assets/portfolio-home.png" width="100%" />
+
+### 💰 Income Expense Tracker
+
+<p>
+Lightweight full-stack MERN app to track income, expenses, and balance in real-time.
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full-Stack+Web+Developer;Building+Real-World+Projects;Open+to+Internships+🚀" />
+<p>
+<b>Stack:</b> MongoDB • Express • React • Node
 </p>
 
-<p align="center">
-  <!-- Tech Stack Badges -->
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<p>
+<a href="https://github.com/dheetchithselvan12/dheetchith-portfolio">🔗 Code</a> |
+<a href="https://dheetchithselvan12.github.io/dheetchith-portfolio/">🌐 Live</a>
 </p>
 
----
+</div>
 
-<p align="center">
-  <!-- GitHub Stats -->
+</td>
+
+<td width="50%" valign="top">
+
+<div>
+
+<img src="./assets/portfolio-home.png" width="100%" />
+
+### 🌐 Personal Portfolio
+
+<p>
+Responsive portfolio website with modern UI and project showcase.
+</p>
+
+<p>
+<b>Stack:</b> React • CSS • JavaScript
+</p>
+
+<p>
+<a href="https://github.com/dheetchithselvan12/dheetchith-portfolio">🔗 Code</a> |
+<a href="https://dheetchithselvan12.github.io/dheetchith-portfolio/">🌐 Live</a>
+</p>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:007CF0&height=3" width="100%" />
+
+## 📊 GitHub Stats
+<br/>
+
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=dheetchithselvan12&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://streak-stats.demolab.com/?user=dheetchithselvan12&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheetchithselvan12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:007CF0&height=3" width="100%" />
+
+## 🐍 Contribution Activity
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/dheetchithselvan12/dheetchithselvan12/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/dheetchithselvan12/dheetchithselvan12/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:007CF0&height=3" width="100%" />
+
+## 📫 Contact 
+
+<br/>
+
+<a href="mailto:dheetchithselvan12@gmail.com" title="Email">
+  <img src="https://skillicons.dev/icons?i=gmail" width="42"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dheetchithselvan" title="LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/dheetchithselvan12" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=github" width="42"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://dheetchithselvan12.github.io/dheetchith-portfolio/" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=vercel" width="42" />
+</a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:007CF0&height=3" width="100%" />
 
 <p align="center">
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=dheetchithselvan12&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=dheetchithselvan12&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-## 🚀 Projects Showcase
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="./assets/portfolio-home.png" />
-
-### 💰 Income Expense Tracker
-
-![MERN](https://img.shields.io/badge/Stack-MERN-green)
-
-Full-stack app to manage daily transactions and balance.
-
-🔗 [GitHub](https://github.com/dheetchithselvan12)  
-🌐 [Live Demo](#)
-
-</td>
-
-<td width="50%">
-
-<img src="./assets/portfolio-home.png" />
-
-### 🌐 Personal Portfolio
-
-![React](https://img.shields.io/badge/Frontend-React-blue)
-
-Responsive portfolio with modern UI/UX.
-
-🔗 [GitHub](https://github.com/dheetchithselvan12)  
-🌐 [Live Demo](#)
-
-</td>
-</tr>
-</table>
----
-
-## 🧠 About Me
-
-- 🌱 I’m currently learning **MERN Stack Development**
-- 💡 I love building real-world projects to improve my skills
-- 🔧 Working on **Income Expense Tracker (Full Stack Project)**
-- 🎯 Goal: Become a professional full-stack developer
-
----
-
-![MERN](https://img.shields.io/badge/Stack-MERN-green)
-![Status](https://img.shields.io/badge/Status-Learning-blue)
-![Visitors](https://komarev.com/ghpvc/?username=dheetchithselvan12)
-
-## 🛠️ Skills
-
-### 💻 Frontend
-- HTML5 
-- CSS3 
-- JavaScript
-- React.js
-
-### ⚙️ Backend
-- Node.js 
-- Express.js
-
-### 🗄️ Database
-- MongoDB
-
-### 🧰 Tools
-- Git & GitHub
-- VS Code
-- Postman
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 MERN Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
----
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
+<p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=100&section=footer" width="100%"/>
 
 
-### 🌐 Personal Portfolio
-- Responsive portfolio website showcasing projects and skills  
-
-🔗 GitHub: https://github.com/dheetchithselvan12/portfolio  
-🌐 Live Demo: https://dheetchithselvan12.github.io/dheetchith-portfolio/  
-
----
-
-## 📫 Contact Me
-
-📧 Email: dheetchithselvan12@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/dheetchithselvan  
-🌐 Portfolio: https://dheetchithselvan12.github.io/dheetchith-portfolio/  
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheetchithselvan12/dheetchithselvan12/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/dheetchithselvan12/dheetchithselvan12/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-⭐ If you like my work, consider giving a star to my repositories!
