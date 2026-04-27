@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hi, I'm Dheetchith Selvan</h1>
 
 <p align="center">
@@ -44,7 +43,7 @@
 <tr>
 <td width="50%">
 
-<img src="https://via.placeholder.com/500x250?text=Income+Tracker" />
+<img src="./assets/portfolio-home.png" />
 
 ### 💰 Income Expense Tracker
 
@@ -59,7 +58,7 @@ Full-stack app to manage daily transactions and balance.
 
 <td width="50%">
 
-<img src="https://via.placeholder.com/500x250?text=Portfolio" />
+<img src="./assets/portfolio-home.png" />
 
 ### 🌐 Personal Portfolio
 
