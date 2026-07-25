@@ -42,10 +42,10 @@
 
 <img src="./assets/portfolio-home.png" width="100%" />
 
-### 💰 Income Expense Tracker
+### 🛒 Rent Ease 
 
 <p>
-Lightweight full-stack MERN app to track income, expenses, and balance in real-time.
+Lightweight full-stack MERN app to rent furniture and appliances.
 </p>
 
 <p>
@@ -53,8 +53,8 @@ Lightweight full-stack MERN app to track income, expenses, and balance in real-t
 </p>
 
 <p>
-<a href="https://github.com/dheetchithselvan12/dheetchith-portfolio">🔗 Code</a> |
-<a href="https://dheetchithselvan12.github.io/dheetchith-portfolio/">🌐 Live</a>
+<a href="https://github.com/dheetchithselvan12/rent-ease.git">🔗 Code</a> |
+<a href="https://rent-ease-frontend.onrender.com/">🌐 Live</a>
 </p>
 
 </div>
