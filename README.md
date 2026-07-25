@@ -40,7 +40,7 @@
 
 <div>
 
-<img src="./assets/portfolio-home.png" width="100%" />
+<img src="./assets/rentEase.png" width="100%" />
 
 ### 🛒 Rent Ease 
 
